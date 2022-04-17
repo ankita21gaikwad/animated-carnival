@@ -1,0 +1,20 @@
+{
+  "name": "test-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankita21gaikwad/playwright.git"
+  },
+  "author": "ankita21gaikwad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankita21gaikwad/playwright/issues"
+  },
+  "homepage": "https://github.com/ankita21gaikwad/playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.20.1"
+  }
+}
