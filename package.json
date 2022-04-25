@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/ankita21gaikwad/playwright#readme",
   "devDependencies": {
-    "@playwright/test": "^1.20.1"
+    "@playwright/test": "^1.21.1"
   }
 }
